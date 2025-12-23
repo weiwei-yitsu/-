@@ -1,0 +1,5 @@
+{
+  "name": "Taipei Attractions Explorer",
+  "description": "A modern, responsive web application for exploring and searching tourism attractions in Taipei City, utilizing the official Taipei Travel Open API.",
+  "requestFramePermissions": []
+}
